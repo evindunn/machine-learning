@@ -1,8 +1,12 @@
 name: machine-learning
+channels:
+  - defaults
+  - conda-forge
 dependencies:
   - python=3
   - pip
   - jupyter
+  - jupyter_nbextensions_configurator
   - matplotlib
   - nltk
   - pandas
@@ -10,6 +14,10 @@ dependencies:
   - scikit-learn
   - spacy
   - pip:
-    - mglearn
     - joblib
+    - jupyter-tabnine
+    - mglearn
+    - python-language-server
+    - pyls
+    - six
 

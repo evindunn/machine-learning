@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b796975b-6f14-446e-86fe-c2238faf0db4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/machine-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/machine-learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes.py" beforeDir="false" afterPath="$PROJECT_DIR$/includes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="0e7be5db-0d28-40db-ba4f-7d03803d7fe3">
-    <option name="files">
-      <option value="main.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="0e7be5db-0d28-40db-ba4f-7d03803d7fe3" />
   <component name="ProjectId" id="1WciT027vfxGBfIt39PQliz7zF6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -87,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579455287559</updated>
-      <workItem from="1579455289531" duration="1370000" />
+      <workItem from="1579455289531" duration="2770000" />
     </task>
     <servers />
   </component>
@@ -95,10 +91,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="98" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579458032420">
+    <state x="98" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579458439729">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
-    <state x="98" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1579458032420" />
+    <state x="98" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1579458439729" />
     <state x="304" y="226" width="662" height="653" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579457945461">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
