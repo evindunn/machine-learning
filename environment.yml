@@ -1,0 +1,10 @@
+name: machine-learning
+dependencies:
+  - python=3
+  - jupyter
+  - matplotlib
+  - nltk
+  - pandas
+  - pillow
+  - scikit-learn
+  - spacy
